@@ -4,7 +4,7 @@ AI tools for building permits and planning are only as good as the data under th
 
 I tested this on the Weissenhofsiedlung in Stuttgart, the 1927 housing estate by Mies van der Rohe, Le Corbusier and others. I used open data from the state survey office of Baden-Württemberg (LGL) and checked the same site in two ways: by downloading the data packages, and by querying the new live API.
 
-An AI coding agent wrote and ran the import and comparison scripts under my direction. I set the questions and checked the results. The list of 1927 buildings was checked against the Weissenhofmuseum's records.
+Claude, connected to Blender through the Model Context Protocol (MCP), wrote and ran the import and comparison scripts under my direction. I set the questions and checked the results. The list of 1927 buildings was checked against the Weissenhofmuseum's records.
 
 ![3D scene of the Weissenhof estate built from open data](images/hero-render.jpg)
 
